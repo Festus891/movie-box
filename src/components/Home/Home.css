@@ -1,0 +1,9 @@
+header{
+    height: 80vh;
+    padding-top: 9rem;
+    overflow: hidden;
+    background-image: url('../../asset/Poster.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
